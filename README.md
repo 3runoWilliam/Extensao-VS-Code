@@ -1,5 +1,7 @@
 # hello-bruno
 
+![extensao_vs](https://github.com/3runoWilliam/Extensao-VS-Code/assets/85655579/d2fd240e-1d94-4744-bcb3-700e61fc29cf)
+
 ## Uso
 
 Após instalar a extensão, siga estas etapas para usar a funcionalidade "Hello World":
